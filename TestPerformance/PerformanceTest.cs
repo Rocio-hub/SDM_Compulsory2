@@ -4,7 +4,7 @@ using MovieRating.Repository;
 namespace TestPerformance
 {
     [TestClass]
-    public class UnitTest1
+    public class PerformanceTest
     {
         private static IRatingRepository ratingRepo;
 
