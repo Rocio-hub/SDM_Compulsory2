@@ -1,0 +1,15 @@
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.exe
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csprojAssemblyReference.cache
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfoInputs.cache
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfo.cs
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.deps.json
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.runtimeconfig.json
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.runtimeconfig.dev.json
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.dll
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.pdb
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CoreCompileInputs.cache
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CopyComplete
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.dll
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.pdb
+D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.genruntimeconfig.cache
