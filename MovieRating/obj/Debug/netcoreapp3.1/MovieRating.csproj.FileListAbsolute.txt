@@ -13,3 +13,18 @@ D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\
 D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.dll
 D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.pdb
 D:\Escritorio\EASV\3rd sem\SDM\Compulsory2\SDMCompulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.genruntimeconfig.cache
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.exe
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.deps.json
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.runtimeconfig.json
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.runtimeconfig.dev.json
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.dll
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\MovieRating.pdb
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csprojAssemblyReference.cache
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.AssemblyInfo.cs
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.csproj.CopyComplete
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.dll
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.pdb
+D:\Documentos\GitHub\SDM_Compulsory2\MovieRating\obj\Debug\netcoreapp3.1\MovieRating.genruntimeconfig.cache

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UeW7zpfyMZUpbzK5Xj274AoHPygbnIow9dJzsYnLvPaigml4jWspkAYB/CYhcb4dtLLC7TiT8Q83fc5WcTh1Tw==",
+  "dgSpecHash": "Rv0M+9A0/2cqympQbYrA4fKoOBYhK0XKa2rXkFwMDoFtd6m9rXj5KQyJ7i3lZV5e1k0gVtLmANFPKI6sAJnLtA==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\EASV\\3rd sem\\SDM\\Compulsory2\\SDMCompulsory2\\MovieRating\\MovieRating.csproj",
+  "projectFilePath": "D:\\Documentos\\GitHub\\SDM_Compulsory2\\MovieRating\\MovieRating.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Rocío\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Francesco\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

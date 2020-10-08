@@ -13,7 +13,7 @@ namespace MovieRating.Repository
             FillList();
         }
 
-        private List<Rating> _rtngLst = new List<Rating>();
+        private static List<Rating> _rtngLst = new List<Rating>();
         public int initOnlyOnce = 0;
 
         public void FillList()

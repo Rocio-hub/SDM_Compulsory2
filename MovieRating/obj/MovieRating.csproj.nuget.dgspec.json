@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\EASV\\3rd sem\\SDM\\Compulsory2\\SDMCompulsory2\\MovieRating\\MovieRating.csproj": {}
+    "D:\\Documentos\\GitHub\\SDM_Compulsory2\\MovieRating\\MovieRating.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\EASV\\3rd sem\\SDM\\Compulsory2\\SDMCompulsory2\\MovieRating\\MovieRating.csproj": {
+    "D:\\Documentos\\GitHub\\SDM_Compulsory2\\MovieRating\\MovieRating.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\EASV\\3rd sem\\SDM\\Compulsory2\\SDMCompulsory2\\MovieRating\\MovieRating.csproj",
+        "projectUniqueName": "D:\\Documentos\\GitHub\\SDM_Compulsory2\\MovieRating\\MovieRating.csproj",
         "projectName": "MovieRating",
-        "projectPath": "D:\\Escritorio\\EASV\\3rd sem\\SDM\\Compulsory2\\SDMCompulsory2\\MovieRating\\MovieRating.csproj",
-        "packagesPath": "C:\\Users\\Rocío\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\EASV\\3rd sem\\SDM\\Compulsory2\\SDMCompulsory2\\MovieRating\\obj\\",
+        "projectPath": "D:\\Documentos\\GitHub\\SDM_Compulsory2\\MovieRating\\MovieRating.csproj",
+        "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
+        "outputPath": "D:\\Documentos\\GitHub\\SDM_Compulsory2\\MovieRating\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rocío\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
